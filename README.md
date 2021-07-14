@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**BarbaraPSousa/BarbaraPSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Bárbara Sousa
 
-Here are some ideas to get you started:
+Sou uma jovem desenvolvedoraem transição de carreira, iniciando minha jornada neste imenso mundo da tecnologia da informação 👨🏽‍💻.  Sempre fui apaixonado por tecnologia, adoraria contribuir com a comunidade e estou aberto a novos aprendizados e experiências!😉❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Bárbara Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraPsousa&show_icons=true&theme=radical)
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/barbara-sousa-78a7a7194/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/barbara.sousa.16906)
+
+
+
+
