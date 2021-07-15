@@ -6,7 +6,7 @@ Sou uma jovem desenvolvedora em transição de carreira, iniciando minha jornada
 ![Bárbara Sousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbaraPsousa&show_icons=true&theme=radical)
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/barbara-sousa-78a7a7194/) [<img 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/barbara-sousa-78a7a7194/)
 
 
 
